@@ -1,0 +1,12 @@
+[
+    {
+        "car_number": "FG4455",
+        "action": "Parked",
+        "time": "2025-02-15 18:21:01"
+    },
+    {
+        "car_number": "FG4455",
+        "action": "Removed",
+        "time": "2025-02-15 18:21:52"
+    }
+]
