@@ -2,6 +2,12 @@
 
 I’m excited to share my personal project I’ve been working on a **Smart Car Parking System** developed using **Python** with a user friendly **Tkinter** interface. This system streamlines parking operations with real time monitoring, QR code based entry/exit, and automated receipt generation. 🅿️💳 
 
+
+
+https://github.com/user-attachments/assets/e2647bff-0b12-49b7-8fe7-fccabb382e2d
+
+
+
 ### ❄️ **Key Features:**  
 ✅ **Interactive GUI:** Built with Tkinter for easy parking management.  
 ✅ **Real Time Parking Spot Display:** Visual representation of available and occupied spots.  
