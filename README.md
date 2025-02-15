@@ -31,7 +31,7 @@ This project is a blend of **technology and convenience**, showcasing how automa
 
 ---
 
-**Smart Car Parking System - User Manual**
+## **Smart Car Parking System - User Manual**
 
 ### Introduction
 Welcome to the Smart Car Parking System! This user manual will guide you through the steps to efficiently manage parking using this software.
