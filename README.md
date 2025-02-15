@@ -87,9 +87,6 @@ Welcome to the Smart Car Parking System! This user manual will guide you through
 - **Car already parked:** Verify the car number entered.
 - **No available spots:** Wait until a spot is freed or check the parking status.
 
-### 10. Contact and Support
-For support, please contact: support@smartparkingsystem.com
-
 **Thank you for using Smart Car Parking System!**
 
 **This project is a blend of technology and convenience, showcasing how automation can improve daily operations. 📊**
