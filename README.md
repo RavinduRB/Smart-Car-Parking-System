@@ -1,5 +1,7 @@
 ## **Smart Car Parking System with Python and QR Code Integration 🚀**  
 
+<img width="1672" height="941" alt="Smart Car Parking System Dashboard" src="https://github.com/user-attachments/assets/91c93ff8-8e00-49e2-a3b8-ad349b980e6d" />
+
 I’m excited to share my personal project I’ve been working on a **Smart Car Parking System** developed using **Python** with a user friendly **Tkinter** interface. This system streamlines parking operations with real time monitoring, QR code based entry/exit, and automated receipt generation. 🅿️💳 
 
 
